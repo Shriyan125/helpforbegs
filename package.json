@@ -1,6 +1,6 @@
 {
   "name": "helpforbegs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dependency help for beginners. No jargon, just plain English.",
   "main": "src/analyzer.js",
   "bin": {
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/helpforbegs.git"
+    "url": "git+https://github.com/Shriyan125/helpforbegs.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/helpforbegs/issues"
+    "url": "https://github.com/Shriyan125/helpforbegs/issues"
   },
-  "homepage": "https://github.com/your-username/helpforbegs#readme",
+  "homepage": "https://github.com/Shriyan125/helpforbegs#readme",
   "keywords": [
     "dependencies",
     "unused",
