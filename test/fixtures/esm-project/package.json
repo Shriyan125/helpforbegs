@@ -1,0 +1,9 @@
+{
+  "name": "esm-project",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "mysql2": "^3.9.0"
+  }
+}

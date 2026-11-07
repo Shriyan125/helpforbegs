@@ -1,0 +1,45 @@
+{
+  "name": "helpforbegs",
+  "version": "1.0.0",
+  "description": "Dependency help for beginners. No jargon, just plain English.",
+  "main": "src/analyzer.js",
+  "bin": {
+    "helpforbegs": "bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/helpforbegs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/helpforbegs/issues"
+  },
+  "homepage": "https://github.com/your-username/helpforbegs#readme",
+  "keywords": [
+    "dependencies",
+    "unused",
+    "cleanup",
+    "depcheck",
+    "beginner",
+    "cli",
+    "package-json"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Shriyan Kogta",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/parser": "^7.24.0",
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
